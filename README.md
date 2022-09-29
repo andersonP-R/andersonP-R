@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Anderson Fabian Pillimue Rivera</h1>
-<h3 align="center">Passionate about technology whit a sense of belonging to the world of development.</h3>
+<h3 align="center"> I'm a self-taught person who likes to create things that others can use or need.</h3>
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
