@@ -1,7 +1,7 @@
-<h1 align="center">Hi, my name is Anderson Fabian Pillimue Rivera</h1>
+<h1 align="center">Hi, my name is Anderson Rivera</h1>
 <h3 align="center"> I'm a self-taught person who likes to create things that others can use or need.</h3>
 
-- 💬 Ask me about **ReactJS, HTML, CSS and JavaScript**
+- 💬 Ask me about **ReactJS, HTML, CSS, Node.js, ExpressJS and JavaScript**
 
 - 📫 How to reach me **anderzonrivera480@gmail.com**
 
