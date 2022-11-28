@@ -1,7 +1,7 @@
 <h1 align="center">Hola!, soy Anderson Rivera</h1>
 <h3 align="center"> Soy un desarrollador de software apasionado por la tecnología y especializado en el desarrollo front-end. Normalmente trabajo con React JS, JavaScript, Node JS y algo de Python, pero siempre estoy abierto a aprender cosas nuevas.</h3>
 
-- 💬 Algunos de mis conocimientos  **ReactJS, HTML, CSS, Node.js, ExpressJS and JavaScript**
+- 💬 Algunos de mis conocimientos  **ReactJS, HTML, CSS, Node.js, ExpressJS, Next.js y JavaScript**
 
 - 📫 Contacto **anderzonrivera480@gmail.com**
 
