@@ -1,9 +1,9 @@
-<h1 align="center">Hola!, soy Anderson Rivera</h1>
-<h3 align="center"> Soy un desarrollador de software apasionado por la tecnología y especializado en el desarrollo web full-stack. Normalmente trabajo con React.js, Javascript, Node.js y algo de Java, pero siempre estoy abierto a aprender cosas nuevas.</h3>
+<h1 align="center">¡Hola, soy Anderson Rivera!</h1>
+<h3 align="center"> Soy un desarrollador de software con conocimientos en tecnologías web full-stack. Destaco por mi capacidad de crear soluciones eficientes y escalables, combinando creatividad técnica con un enfoque orientado a resultados. Mi experiencia en proyectos tecnológicos ha fortalecido mi habilidad para traducir necesidades del cliente en aplicaciones funcionales y atractivas. Comprometido con el aprendizaje continuo y la innovación, busco contribuir en equipos dinámicos donde pueda aplicar y expandir mis conocimientos en tecnologías emergentes.</h3>
 
-- 💬 Algunos de mis conocimientos  **React.js, HTML, CSS, Typescript, Node.js, Express.js, Next.js, SQL, Figma y Javascript**
+- 💬 Algunos de mis conocimientos  **JavaScrip, HTML, CSS, Typescript, node.js, react.js, express.js, next.js, SQL, Docker, Figma y Java**
 
-- 📫 Contacto **anderzonrivera480@gmail.com**
+- 📫 Contacto **andeson.pr.personal@gmail.com**
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
