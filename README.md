@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Anderson Rivera</h1>
-<h3 align="center">Desarrollador full-stack con enfoque en soluciones eficientes y escalables. Con capacidad de traducir necesidades del cliente en aplicaciones funcionales y atractivas. Apasionado por la innovación y el aprendizaje continuo, buscando aportar en equipos dinámicos con tecnologías emergentes.</h3>
+<h3 align="center">Soy desarrollador Full-Stack Junior con interés por crear soluciones funcionales y atractivas. Con conocimientos en tecnologías web y motivado por el aprendizaje continuo. Me interesa formar parte de equipos dinámicos donde pueda crecer profesionalmente, aportar con creatividad y mejorar mis habilidades en el desarrollo de software.</h3>
 
 - 👨‍💻 Mi portafolio [https://andersonpr.vercel.app/](https://andersonpr.vercel.app/)
 
